@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Hash, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Menu from './Menu';
 import Contact from './Contact';
