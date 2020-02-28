@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.c672ce49.chunk.css",
+    "main.js": "/personal/static/js/main.084da335.chunk.js",
+    "main.js.map": "/personal/static/js/main.084da335.chunk.js.map",
+    "runtime-main.js": "/personal/static/js/runtime-main.7bb36bd5.js",
+    "runtime-main.js.map": "/personal/static/js/runtime-main.7bb36bd5.js.map",
+    "static/js/2.4291241f.chunk.js": "/personal/static/js/2.4291241f.chunk.js",
+    "static/js/2.4291241f.chunk.js.map": "/personal/static/js/2.4291241f.chunk.js.map",
+    "index.html": "/personal/index.html",
+    "precache-manifest.299efbc723275020e2c5da9efb413420.js": "/personal/precache-manifest.299efbc723275020e2c5da9efb413420.js",
+    "service-worker.js": "/personal/service-worker.js",
+    "static/css/main.c672ce49.chunk.css.map": "/personal/static/css/main.c672ce49.chunk.css.map",
+    "static/js/2.4291241f.chunk.js.LICENSE.txt": "/personal/static/js/2.4291241f.chunk.js.LICENSE.txt",
+    "static/media/avatarsmall.jpg": "/personal/static/media/avatarsmall.66d17b25.jpg",
+    "static/media/github.svg": "/personal/static/media/github.50feef6b.svg",
+    "static/media/gmail.svg": "/personal/static/media/gmail.64361c93.svg",
+    "static/media/linkedin.svg": "/personal/static/media/linkedin.7b73924a.svg",
+    "static/media/skype.svg": "/personal/static/media/skype.41c7b258.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bb36bd5.js",
+    "static/js/2.4291241f.chunk.js",
+    "static/css/main.c672ce49.chunk.css",
+    "static/js/main.084da335.chunk.js"
+  ]
+}
