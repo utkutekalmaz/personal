@@ -408,6 +408,22 @@ body {
     position: absolute;
   }
 
+  .home {
+    width: 90vw;
+  }
+
+  .home .name {
+    font-size: 40px;
+  }
+
+  .home .tag {
+    font-size: 20px;
+  }
+
+  .home .more {
+    font-size: 20px;
+  }
+
   .info-box {
     font-size: 10px;
   }
