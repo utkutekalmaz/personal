@@ -1,12 +1,11 @@
 import React, { useContext } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Hash, Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Menu from './Menu';
 import Contact from './Contact';
 import About from './About';
 import Portfolio from './Portfolio';
 import Gallery from './Gallery';
-import ThemeState from '../context/ThemeState';
 import ThemeContext from '../context/ThemeContext';
 
 export const Container = () => {
@@ -28,7 +27,7 @@ export const Container = () => {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className='swc-group'>
         <label className='swc-label'>
           <div
@@ -65,6 +64,6 @@ export const Container = () => {
           <Route render={() => <p>Not found</p>} />
         </Switch>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
