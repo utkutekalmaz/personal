@@ -103,7 +103,7 @@ body {
 }
 
 .home .name {
-  font-size: 5vw;
+  font-size: 80px;
   letter-spacing: -0.1rem;
   color: var(--u-brown);
   /* color: var(--u-white); */
@@ -111,6 +111,7 @@ body {
 
 .home .tag {
   align-self: flex-end;
+  font-size: 40px;
   color: var(--u-brown);
   font-weight: 400;
 }
@@ -120,6 +121,7 @@ body {
   font-weight: 100;
   letter-spacing: -1.2pt;
   color: var(--u-puff) !important;
+  font-size: 40px;
   cursor: pointer;
   margin-top: 10px;
   padding: 2px 10px 2px 10px;
